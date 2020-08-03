@@ -1,0 +1,16 @@
+IN SCOPE
+- Project creation
+- Basic project design
+- Database interaction
+- CRUD operations
+- Deployment
+- Project comparisons
+- Dependency injection
+
+
+OUT OF SCOPE
+- Entity Framework
+- Complex forms
+- Authentication
+- JavaScript
+- Azure
